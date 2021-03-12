@@ -20,8 +20,8 @@ namespace Intro_GitHub
 
         public static int Addnumbers(int a, int b)
         {
-
-            return a + b;
+            //Modificanco la funcion Addnumbers para que retorne una resta
+            return a - b;
         }
     }
 }
