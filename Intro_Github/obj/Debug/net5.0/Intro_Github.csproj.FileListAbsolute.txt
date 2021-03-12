@@ -1,0 +1,16 @@
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\bin\Debug\net5.0\Intro_Github.exe
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\bin\Debug\net5.0\Intro_Github.deps.json
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\bin\Debug\net5.0\Intro_Github.runtimeconfig.json
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\bin\Debug\net5.0\Intro_Github.runtimeconfig.dev.json
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\bin\Debug\net5.0\Intro_Github.dll
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\bin\Debug\net5.0\ref\Intro_Github.dll
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\bin\Debug\net5.0\Intro_Github.pdb
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\obj\Debug\net5.0\Intro_Github.csprojAssemblyReference.cache
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\obj\Debug\net5.0\Intro_Github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\obj\Debug\net5.0\Intro_Github.AssemblyInfoInputs.cache
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\obj\Debug\net5.0\Intro_Github.AssemblyInfo.cs
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\obj\Debug\net5.0\Intro_Github.csproj.CoreCompileInputs.cache
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\obj\Debug\net5.0\Intro_Github.dll
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\obj\Debug\net5.0\ref\Intro_Github.dll
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\obj\Debug\net5.0\Intro_Github.pdb
+C:\Users\Boris Campos\OneDrive\Escritorio\POO2021\Intro_Github\obj\Debug\net5.0\Intro_Github.genruntimeconfig.cache
