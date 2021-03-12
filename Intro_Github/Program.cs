@@ -20,8 +20,8 @@ namespace Intro_GitHub
 
         public static int Addnumbers(int a, int b)
         {
-
-            return a + b;
+            // Modificando Addnumbers para que pueda retornar a una multiplicacion!!
+            return a * b;
         }
     }
 }
